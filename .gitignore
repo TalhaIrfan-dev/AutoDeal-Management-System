@@ -1,0 +1,6 @@
+*.class
+.idea/
+out/
+*.log
+*.docx
+*.iml

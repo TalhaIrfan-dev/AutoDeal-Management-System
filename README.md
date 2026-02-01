@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
-- [Tools & Technologies](#tools-and-technologies)
+- [Tools & Technologies](#tools--technologies)
 - [Features & Methods](#methods)
 - [Key Highlights](#Key-Highlights)
 - [Dashboard / Model / Output](#dashboard--model--output)
